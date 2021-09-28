@@ -1,0 +1,44 @@
+.header1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 72px;
+    color: rgb(157, 14, 223);
+    background-color: seagreen;
+}
+
+.list {
+    color: sienna;
+    background-color: skyblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.para {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: tomato;
+    background-color: yellowgreen;
+    font-weight: lighter;
+}
+
+.image {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50;
+}
+
+.pizza {
+    height: auto;
+    width: 400px;
+}
+
+.redvelvet {
+    height: auto;
+    width: 200px;
+}
+
+.creme {
+    height: 200px;
+    width: 800px;
+}
